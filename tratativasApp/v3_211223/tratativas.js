@@ -27,13 +27,33 @@ const tratSemRetornoEstamosNoAguardo = document.querySelector("#trat-sem-retorno
 tratSemRetornoEstamosNoAguardo.value = "Foi enviado uma mensagem no privado do cliente mas não obtivemos retorno, estamos no aguardo para darmos continuidade a tratativa."
 
 // 8
-const tratAjudoEmAlgoMais = document.querySelector("#trat-ajudo-em-algo-mais")
-tratAjudoEmAlgoMais.value = "Ajudo em algo mais?"
+const tratAtendimentoEncerrado = document.querySelector("#trat-atendimento-encerrado")
+tratAtendimentoEncerrado.value = "Atendimento encerrado. Não obtivemos retorno pela parte do cliente, caso deseje suporte entre em contato novamente que iremos atender. A INFOTEC agradece o contato."
 
 // 9
 const tratAInfotecAgradeceOContato = document.querySelector("#trat-a-infotec-agradece-o-contato")
 tratAInfotecAgradeceOContato.value = "A INFOTEC agradece o contato."
 
 //10
-const tratDisponhaQualquerDuvida = document.querySelector("trat-disponha-qualquer-duvida")
+const tratDisponhaQualquerDuvida = document.querySelector("#trat-disponha-qualquer-duvida")
 tratDisponhaQualquerDuvida.value = "Disponha, qualquer dúvida estamos a disposição."
+
+//11
+const tratAcessoNormalizadoSemIntervencao = document.querySelector("#trat-acesso-normalizado-sem-intervencao")
+tratAcessoNormalizadoSemIntervencao.value = "Acesso normalizado sem intervenção técnica."
+
+//12
+const tratSolicitacaoAtendida = document.querySelector("#trat-solicitacao-atendida")
+tratSolicitacaoAtendida.value = "Solicitação do cliente atendida. Não foi identificado falhas no acesso da INFOTEC."
+
+//13
+const tratEncaminhadaParaOSetorResponsavel = document.querySelector("#trat-encaminhada-para-o-setor-responsavel")
+tratEncaminhadaParaOSetorResponsavel.value = "A solicitação do cliente foi encaminhada para o setor responsável."
+
+//14
+const tratNosRespondaNoPrivado = document.querySelector("#trat-nos-responda-no-privado")
+tratNosRespondaNoPrivado.value = "Foi enviado uma mensagem no seu privado para lhe auxiliar, favor nos responder por gentileza para procedermos com a tratativa."
+
+//15
+const tratAjudoEmAlgoMais = document.querySelector("#trat-ajudo-em-algo-mais")
+tratAjudoEmAlgoMais.value = "Ajudo em algo mais?"

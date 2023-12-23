@@ -43,9 +43,9 @@ function clickCopy(trat){
         tratSemRetornoEstamosNoAguardo.focus()
 
     }else if (trat == 8){
-        caixaTexto.value = tratAjudoEmAlgoMais.value
+        caixaTexto.value = tratAtendimentoEncerrado.value
         copiartxt()
-        tratAjudoEmAlgoMais.focus()
+        tratAtendimentoEncerrado.focus()
 
     }else if (trat == 9){
         caixaTexto.value = tratAInfotecAgradeceOContato.value
@@ -56,6 +56,31 @@ function clickCopy(trat){
         caixaTexto.value = tratDisponhaQualquerDuvida.value
         copiartxt()
         tratDisponhaQualquerDuvida.focus()
+
+    }else if(trat == 11){
+        caixaTexto.value = tratAcessoNormalizadoSemIntervencao.value
+        copiartxt()
+        tratAcessoNormalizadoSemIntervencao.focus()
+    
+    }else if(trat == 12){
+        caixaTexto.value = tratSolicitacaoAtendida.value
+        copiartxt()
+        tratSolicitacaoAtendida.focus()
+    
+    }else if(trat == 13){
+        caixaTexto.value = tratEncaminhadaParaOSetorResponsavel.value
+        copiartxt()
+        tratEncaminhadaParaOSetorResponsavel.focus()
+
+    }else if(trat == 14){
+        caixaTexto.value = tratNosRespondaNoPrivado.value
+        copiartxt()
+        tratNosRespondaNoPrivado.focus()
+    
+    }else if(trat == 15){
+        caixaTexto.value = tratAjudoEmAlgoMais.value
+        copiartxt()
+        tratAjudoEmAlgoMais.focus()
     }
     }
  
