@@ -10,47 +10,75 @@
     <div id="box">
         <h1>Bom dia, Paulo.</h1>
         <h2>Tratativas com o cliente:</h2>
-        <!--
-        <textarea id="box-exibir-texto" cols="75" rows="3"></textarea>
-        -->
+        
+        <textarea id="box-exibir-texto" cols="70" rows="3"></textarea>
+        
         <hr>
         <fieldset id="box-tratativas">
             <legend>Tratativas</legend>
 
-            <div>
-                <button value="Um momento por gentileza que em breve entraremos em contato.">
-                    Um momento,<br/>entraremos em contato</button>
-    
-                <button value="Me chamo Paulo, sou técnico do suporte da INFOTEC. Como posso ajudar?">
-                    Sou suporte,<br/>como posso ajudar?</button>
-    
-                <button value="Me chamo Paulo, sou técnico do suporte da INFOTEC.">
-                    Sou suporte técnico</button>
-            </div>
+                <button
+                    id="trat-um-momento-entraremos-em-contato"
+                    onclick="clickCopy(1)">
+                    Um momento,<br/>entraremos em contato
+                </button>
 
-            <div>
-                <button value="Como posso te ajudar hoje?">
-                    Como posso ajudar?</button>
+                <button
+                    id="trat-sou-suporte-como-posso-ajudar"
+                    onclick="clickCopy(2)">
+                    Sou suporte,<br/>como posso ajudar?
+                </button>
     
-                <button value="Por gentileza me confirme o nome completo ou o CPF do titular.">
-                    Me confirme<br/>Nome e CPF</button>
+                <button
+                    id="trat-sou-suporte-tecnico"
+                    onclick="clickCopy(3)">
+                    Sou suporte técnico
+                </button>
+            
+                <button
+                    id="trat-como-posso-ajudar"
+                    onclick="clickCopy(4)">
+                    Como posso ajudar?
+                </button>
     
-                <button value="Só um momento por gentileza que vou verificar.">
-                    Um momento,<br/>vou verificar</button>
-            </div>
-            <div>
-                
-            <button value="Ajudo em algo mais?">
-                Ajudo em algo mais?</button>
+                <button
+                    id="trat-me-confirme-nome-e-cpf"
+                    onclick="clickCopy(5)">
+                    Me confirme<br/>Nome e CPF
+                </button>
+    
+                <button
+                    id="trat-um-momento-vou-verificar"
+                    onclick="clickCopy(6)">
+                    Um momento,<br/>vou verificar
+                </button>
 
-            <button value="A INFOTEC agradece o contato.">
-                A INFOTEC<br/>agradece o contato</button>
+                <button
+                    id="trat-sem-retorno-estamos-no-aguardo"
+                    onclick="clickCopy(7)">
+                    Sem retorno<br/>estamos no aguardo
+                </button>
+           
+                <button
+                    id="trat-ajudo-em-algo-mais"
+                    onclick="clickCopy(8)">
+                    Ajudo em algo mais?
+                </button>
 
-            <button value="Disponha, qualquer dúvida estamos a disposição.">
-                Disponha,<br/>Qualquer dúvida</button>
-            </div>
+                <button
+                    id="trat-a-infotec-agradece-o-contato"
+                    onclick="clickCopy(9)">
+                    A INFOTEC<br/>agradece o contato
+                </button>
 
-            <div>
+                <button
+                    id="trat-disponha-qualquer-duvida"
+                    onclick="clickCopy(10)">
+                    Disponha,<br/>Qualquer dúvida
+                </button>
+            
+
+            
                 <button value="Acesso normalizado sem intervenção técnica.">
                     Acesso normalizado<br/>sem intervenção</button>
     
@@ -59,7 +87,11 @@
     
                 <button value="A solicitação do cliente foi encaminhada para o setor responsável.">
                     Encaminhada para<br/>o setor responsável</button>
-            </div>
+
+                <!--ESTAMOS NO AGUARDO-->
+
+                <!--ATENDIMENTO ENCERRADO-->
+            
 
             </fieldset>
         
@@ -67,11 +99,11 @@
 
             <fieldset id="box-office">
                 <legend>Escritório</legend>
-                <button>PLANOS E VALORES<br/>INFOTEC</button>
+                <button>Planos e valores<br/>Infotec</button>
 
-                <button>CANAIS<br/>INFOTEC PLAY</button>
+                <button>Canais<br/>Infotec play</button>
     
-                <button>CONTATO ESCRITÓRIO</button>
+                <button>Contato escritório</button>
             </fieldset>
 
             <hr/>
@@ -109,5 +141,8 @@
 
         </fieldset>
     </div>
+
+    <script src="script.js"></script>
+    <script src="tratativas.js"></script>
 </body>
 </html>
