@@ -8,3 +8,4 @@ Repositório com fim de estudo de desafios em projetos como livros, cursos e boo
 [Lista de cores suportadas pela maioria dos Browsers](https://www.w3schools.com/colors/colors_names.asp)<br>
 [Galeria de Padrõoes de fundo em CSS3](https://projects.verou.me/css3patterns/)<br>
 [Lista de icones - IonIcons](https://ionic.io/ionicons)<br>
+[Image Map Generation](https://www.image-map.net/)<br>
