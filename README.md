@@ -9,4 +9,5 @@ Repositório com fim de estudo de desafios em projetos como livros, cursos e boo
 [Galeria de Padrõoes de fundo em CSS3](https://projects.verou.me/css3patterns/)<br>
 [Lista de icones - IonIcons](https://ionic.io/ionicons)<br>
 [Image Map Generation](https://www.image-map.net/)<br>
+[Lista de simbolos Unicode]([https://www.image-map.net/](https://symbl.cc/pt/unicode-table/#geometric-shapes))<br>
 [Lista de codigos de caracteres para Windows](https://support.microsoft.com/pt-br/office/insira-tabela-de-caracteres-ascii-ou-unicode-d13f58d3-7bcb-44a7-a4d5-972ee12e50e0#bmcharactermap)<br>
