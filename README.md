@@ -8,6 +8,7 @@ Repositório com fim de estudo de desafios em projetos como livros, cursos e boo
 [Lista de cores suportadas pela maioria dos Browsers](https://www.w3schools.com/colors/colors_names.asp)<br>
 [Galeria de Padrõoes de fundo em CSS3](https://projects.verou.me/css3patterns/)<br>
 [Lista de icones - IonIcons](https://ionic.io/ionicons)<br>
+[Criação de diagramas e fluxogramas](https://app.diagrams.net/)<br>
 [Image Map Generation](https://www.image-map.net/)<br>
 [Lista de simbolos Unicode](https://symbl.cc/pt/unicode-table/)<br>
 [Lista de codigos de caracteres para Windows](https://support.microsoft.com/pt-br/office/insira-tabela-de-caracteres-ascii-ou-unicode-d13f58d3-7bcb-44a7-a4d5-972ee12e50e0#bmcharactermap)<br>
