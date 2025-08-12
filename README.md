@@ -13,3 +13,5 @@ Repositório com fim de estudo de desafios em projetos como livros, cursos e boo
 [Image Map Generation](https://www.image-map.net/)<br>
 [Lista de simbolos Unicode](https://symbl.cc/pt/unicode-table/)<br>
 [Lista de codigos de caracteres para Windows](https://support.microsoft.com/pt-br/office/insira-tabela-de-caracteres-ascii-ou-unicode-d13f58d3-7bcb-44a7-a4d5-972ee12e50e0#bmcharactermap)<br>
+[Webhook.site](https://webhook.site/)<br>
+[Webhook.cool](https://webhook.cool/)<br>
