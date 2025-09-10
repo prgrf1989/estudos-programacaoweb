@@ -1,0 +1,52 @@
+{
+    "players": [
+        {
+            "id": 1,
+            "name": "Mario",
+            "velocidade": 4,
+            "manobrabilidade": 3,
+            "poder": 3,
+            "pontos": 0
+        },
+        {
+            "id": 2,
+            "name": "Bowser",
+            "velocidade": 5,
+            "manobrabilidade": 2,
+            "poder": 5,
+            "pontos": 0
+        },
+        {
+            "id": 3,
+            "name": "Peach",
+            "velocidade": 3,
+            "manobrabilidade": 4,
+            "poder": 2,
+            "pontos": 0
+        },
+        {
+            "id": 4,
+            "name": "Luigi",
+            "velocidade": 3,
+            "manobrabilidade": 4,
+            "poder": 4,
+            "pontos": 0
+        },
+        {
+            "id": 5,
+            "name": "Yoshi",
+            "velocidade": 2,
+            "manobrabilidade": 4,
+            "poder": 3,
+            "pontos": 0
+        },
+        {
+            "id": 6,
+            "name": "Donkey Kong",
+            "velocidade": 2,
+            "manobrabilidade": 2,
+            "poder": 5,
+            "pontos": 0
+        }
+    ]
+}
