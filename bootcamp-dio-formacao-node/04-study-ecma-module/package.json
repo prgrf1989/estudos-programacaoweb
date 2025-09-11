@@ -1,0 +1,13 @@
+{
+  "name": "04-study-ecma-module",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Informa o codigo do produto e retorna se tem em estoque.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Paulo Ferreira",
+  "license": "ISC"
+}

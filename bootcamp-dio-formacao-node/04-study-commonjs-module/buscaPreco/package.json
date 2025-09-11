@@ -1,0 +1,12 @@
+{
+  "name": "buscapreco",
+  "version": "1.0.0",
+  "description": "Informa o nome e preço dos produtos através do codigo de barras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Paulo Ferreira",
+  "license": "ISC"
+}

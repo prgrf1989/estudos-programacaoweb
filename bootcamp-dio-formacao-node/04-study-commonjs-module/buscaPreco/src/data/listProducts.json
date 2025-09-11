@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "codBar": "0001",
+            "name": "Biscoito Creme Cracker",
+            "price": 4.90
+        },
+        {
+            "codBar": "0002",
+            "name": "Goiabaia Vitarella",
+            "price": 2.85
+        },
+        {
+            "codBar": "0003",
+            "name": "Pão Francês",
+            "price": 0.90
+        },
+        {
+            "codBar": "0004",
+            "name": "Churrasqueira",
+            "price": 50.25
+        }
+    ]
+}

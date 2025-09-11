@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "cod": 1,
+            "name": "Lapis preto de madeira",
+            "quantity": 10
+        },
+        {
+            "cod": 2,
+            "name": "Caneta azul",
+            "quantity": 5
+        },
+        {
+            "cod": 3,
+            "name": "Caneta quatro cores",
+            "quantity": 0
+        },
+        {
+            "cod": 4,
+            "name": "Caderno de anotações",
+            "quantity": 2
+        }
+    ]
+}
