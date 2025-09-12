@@ -9,7 +9,7 @@ Repositório com fim de estudo de desafios em projetos como livros, cursos e boo
 [Galeria de Padrõoes de fundo em CSS3](https://projects.verou.me/css3patterns/)<br>
 [Compilador Online varias linguagens](https://www.jdoodle.com/)<br>
 [Lista de icones - IonIcons](https://ionic.io/ionicons)<br>
-[Lista de emojis - emojipedia](https://emojipedia.org/pt)
+[Lista de emojis - emojipedia](https://emojipedia.org/pt)<br>
 [Criação de diagramas e fluxogramas](https://app.diagrams.net/)<br>
 [Image Map Generation](https://www.image-map.net/)<br>
 [Lista de simbolos Unicode](https://symbl.cc/pt/unicode-table/)<br>
